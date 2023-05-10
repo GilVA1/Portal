@@ -19,10 +19,11 @@ body {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  color: #ffffff;
+  color: #000000;
+  background-color: rgb(9, 29, 214);
   width: 425px;
   Height: 200px;
-  border: 2px solid #d80404;
+  border: 12px solid #8500f1;
 }
 
 
